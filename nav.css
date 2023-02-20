@@ -1,0 +1,21 @@
+.container{
+    border: solid red;
+    background: rgb(143, 170, 122);
+}
+body{
+    background-image: url(img/bg/b\ \(9\).jpg);
+}
+h1{
+    
+    font-size: xx-large;
+    color:red;
+background: yellow;
+
+}
+.img{
+    width: 360px;
+    /* height: 310px; */
+    border:solid rgb(53, 233, 218);
+    border-radius: 20px;
+    
+}
